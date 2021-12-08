@@ -14,13 +14,14 @@ SECRET_KEY = 'django-insecure-)!%nouws13i&o)jg!=k2+o261b5_)!faqf^q_pngsluo$734!x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
-
+ALLOWED_HOSTS = ['*']
+TOKEN = '729588903:AAFS0pWjAyOCDKSSn4u_qxvxF4Hu7q-Wbcg'
+WEBHOOK = 'https://a919-82-215-105-7.ngrok.io'
 # Application definition
 
 INSTALLED_APPS = [
     'bot',
+    'users',
     'data',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -60,6 +61,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'settings.wsgi.application'
 
+AUTH_USER_MODEL = 'users.User'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
