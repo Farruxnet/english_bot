@@ -35,14 +35,14 @@ class User(AbstractBaseUser):
         ('ru', 'Руский'),
         ('en', 'Ingliz'),
     )
-    tg_id = models.IntegerField(default=0)
+    tg_id = models.BigIntegerField(default=0)
     phone_number = models.CharField(max_length=12, unique=True, null=True, blank=True)
     name = models.CharField(max_length=50, null=True, blank=True)
     username = models.CharField(max_length=50, null=True, blank=True)
 
     STATUS_CHOICES = (
-        ('customer', 'Mijoz'),
-        ('driver', 'Haydovchi'),
+        ('customer', '1'),
+        ('driver', '2'),
     )
 
     status = models.CharField(choices=STATUS_CHOICES, max_length=10, null=True, blank=True)
@@ -74,12 +74,24 @@ class User(AbstractBaseUser):
     def is_staff(self):
         return self.is_admin
 
+class DayWord(models.Model):
+    user = models.ForeignKey(User, on_delete = models.CASCADE)
+    words = models.ManyToManyField(Words, null = True, verbose_name = 'Kunlik so\'zlar')
+    create_at = models.DateTimeField(auto_now_add=True, null = True)
+
+class Ball(models.Model):
+    user = models.ForeignKey(User, on_delete = models.CASCADE)
+    words = models.ForeignKey(DayWord, on_delete = models.CASCADE, null = True)
+    ball = models.IntegerField(default = 0)
+    create_at = models.DateTimeField(auto_now_add=True, null = True)
+
 
 class UserNewWord(models.Model):
     user = models.ForeignKey(User, on_delete = models.CASCADE)
-    new = models.ManyToManyField(Words, verbose_name = 'Yangi so`zlar', related_name = 'newword')
-    saved = models.ManyToManyField(Words, verbose_name = 'Yot olingan so`zlar', related_name = 'savedword')
-    
+    words = models.ManyToManyField(Words, null = True, verbose_name = 'Yodlangan so`zlar')
+
+    create_at = models.DateTimeField(auto_now_add=True, null = True)
+
     def __str__(self):
         return 'so`zlar'
 

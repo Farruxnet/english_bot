@@ -4,32 +4,38 @@ from telebot import types
 import random
 from django.conf import settings
 bot = telebot.TeleBot(settings.TOKEN)
-
-
+from users.models import *
+import datetime
 count = 4
 
-def make_dic():
-    """ Bazadan kelgan datani jsonga convert qiladi """
-    result = {}
-    for idx in Words.objects.all():
-        result[idx.id] = {"oz": idx.oz, "en": idx.en}
-    return result
+def make_button(user_id):
+    user_id = user_id
+    print(user_id)
+    def make_dic():
+        """ Bazadan kelgan datani jsonga convert qiladi """
+        result = {}
+        print(DayWord.objects.filter(user__tg_id = user_id, create_at__day = datetime.datetime.now().day))
+        for j in DayWord.objects.filter(user__tg_id = user_id, create_at__day = datetime.datetime.now().day):
+            print(j.words.all())
+            for idx in j.words.all():
+                print(idx)
+                result[idx.id] = {"oz": idx.oz, "en": idx.en}
+        print(result)
+        return result
 
-def random_question_answer(word):
-    """ json ko'rinishida kelgan datani 4 ta
-    random savolini[0] ja to'g'ri javobini qaytaradi[1] """
+    def random_question_answer(word):
+        """ json ko'rinishida kelgan datani 4 ta
+        random savolini[0] ja to'g'ri javobini qaytaradi[1] """
 
-    random_word = random.sample(list(word), count)
-    select = random_word[0]
-    new_dictionary = list()
-    new_dictionary.append(word[select])
-    for i in random_word:
-        if i != select:
-            new_dictionary.append(word[i])
-    return new_dictionary, word[select]
+        random_word = random.sample(list(word), count)
+        select = random_word[0]
+        new_dictionary = list()
+        new_dictionary.append(word[select])
+        for i in random_word:
+            if i != select:
+                new_dictionary.append(word[i])
+        return new_dictionary, word[select]
 
-
-def make_button():
     """ tayyor kelgan json ko'rinishidagi datani
     telegram inline button objectini qaytaradi """
     quiz = random_question_answer(make_dic())

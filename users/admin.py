@@ -5,7 +5,7 @@ from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
 from django.contrib.auth.forms import ReadOnlyPasswordHashField
 from django.core.exceptions import ValidationError
 
-from . models import User, UserNewWord
+from . models import User, UserNewWord, DayWord, Ball
 
 
 class UserCreationForm(forms.ModelForm):
@@ -47,17 +47,17 @@ class UserAdmin(BaseUserAdmin):
     add_form = UserCreationForm
 
 
-    list_display = ('name',  'is_admin')
+    list_display = ('phone_number',  'is_admin')
     list_filter = ('is_admin',)
     fieldsets = (
-        (None, {'fields': ('phone_number', 'name', 'language', 'status', 'username', 'description', 'amount', 'tg_id', 'step',)}),
+        (None, {'fields': ('phone_number', 'name', 'status', 'username', 'amount', 'tg_id', 'step',)}),
         ('Permissions', {'fields': ('is_admin',)}),
     )
 
     add_fieldsets = (
         (None, {
             'classes': ('wide',),
-            'fields': ('phone_number', 'password1', 'password2', 'name', 'language', 'status', 'description', 'amount',),
+            'fields': ('phone_number', 'password1', 'password2', 'name', 'status', 'amount',),
         }),
     )
     search_fields = ('phone_number',)
@@ -67,3 +67,5 @@ class UserAdmin(BaseUserAdmin):
 admin.site.register(User, UserAdmin)
 admin.site.unregister(Group)
 admin.site.register(UserNewWord)
+admin.site.register(DayWord)
+admin.site.register(Ball)

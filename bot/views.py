@@ -5,6 +5,9 @@ from django.conf import settings
 from data.models import Words
 import random
 from . services import make_button
+from users.models import *
+import datetime
+from bot.system import *
 
 bot = telebot.TeleBot(settings.TOKEN)
 
@@ -24,45 +27,82 @@ def web_hook(request):
 @bot.message_handler(commands = ['start'])
 def start(message):
     try:
-        start_button = types.InlineKeyboardMarkup(row_width=2)
-        start_button.add(types.InlineKeyboardButton(text="Boshlash", callback_data='start'))
-        bot.send_message(message.from_user.id, "Boshlash!", reply_markup = start_button)
+        if User.objects.filter(tg_id = message.chat.id).exists():
+            home_get(message, bot)
+        else:
+            if message.chat.last_name:
+                name = message.chat.first_name + ' ' + message.chat.last_name
+            else:
+                name = message.chat.first_name
+            User.objects.create(
+                tg_id = message.chat.id,
+                name = name,
+                username = message.chat.username
+            )
+            home_get(message, bot)
     except Exception as e:
         print(e)
 
-@bot.callback_query_handler(func=lambda call: True)
-def get_call_back(call):
-    import traceback
-    data = call.data
-    if data == 'start':
-        bot.delete_message(message_id = call.message.message_id, chat_id = call.message.chat.id)
-        try:
-            button = make_button()
-            bot.send_message(
-                call.message.chat.id,
-                text = '<b>Savol:</b> ' + str(button[1]) + '\n\n To`g`ri javobni belgilang 👇',
-                reply_markup = button[0],
-                parse_mode = 'html'
-            )
-        except Exception as e:
-            print(e)
-            traceback.print_tb(e.__traceback__)
-    elif data == 'True' or data == 'False':
-        if data == 'True':
-            bot.answer_callback_query(callback_query_id=call.id, show_alert=False, text="To'g'ri ✅")
-        elif data == 'False':
-            bot.answer_callback_query(callback_query_id=call.id, show_alert=False, text="Noto'g'ri ❌")
+
+@bot.message_handler(func=lambda msg: msg.text == LAN['home'])
+def info(message):
+    home_get(message, bot)
 
 
-        try:
-            button = make_button()
-            bot.edit_message_text(
-                message_id = call.message.message_id,
-                chat_id = call.message.chat.id,
-                text = '<b>Savol:</b> ' + str(button[1]) + '\n\n To`g`ri javobni belgilang 👇',
-                reply_markup = button[0],
-                parse_mode = 'html'
-            )
-        except Exception as e:
-            print(e)
-            traceback.print_tb(e.__traceback__)
+@bot.message_handler(func=lambda msg: msg.text == LAN['info'])
+def info(message):
+    pass
+
+@bot.message_handler(func=lambda msg: msg.text == LAN['start_new_lesson'])
+def new_word(message):
+    try:
+        bot.send_message(message.chat.id, LAN['new_word'], parse_mode = 'html', reply_markup = start_lesson_button())
+    except Exception as e:
+        print(e)
+
+@bot.message_handler(func=lambda msg: msg.text == LAN['settings'])
+def settings(message):
+    pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #
