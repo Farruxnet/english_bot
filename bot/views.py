@@ -4,7 +4,7 @@ from telebot import types
 from django.conf import settings
 from data.models import Words
 import random
-from . services import make_button, MakeDictionary
+from . services import MakeDictionary
 from users.models import *
 import datetime
 from bot.system import *
@@ -120,24 +120,41 @@ def bot_settings(message):
     pass
 
 
-
-
-
 @bot.callback_query_handler(func=lambda call: True)
 def get_call_back(call):
+    data = call.data
     dictionary_obj = DayWord.objects.filter(user__tg_id = call.message.chat.id, create_at__day = datetime.datetime.now().day)
     obj = MakeDictionary(4, dictionary_obj)
-    # print(obj.make_random_quiz())
-    print(obj.make_button()[0])
-    print(obj.make_button()[1])
-    try:
-        bot.send_message(call.message.chat.id, obj.make_button()[1], reply_markup = obj.make_button()[0])
-    except Exception as e:
-        print(e)
+    mb = obj.make_button()
     if data == 'start':
-        pass
-    else:
-        pass
+        try:
+            bot.edit_message_text(
+                message_id = call.message.message_id,
+                chat_id = call.message.chat.id,
+                text = mb[1],
+                reply_markup = mb[0]
+            )
+        except Exception as e:
+            print(e)
+
+    elif data == 'True' or data == 'False':
+        if data == 'True':
+            bot.answer_callback_query(callback_query_id=call.id, show_alert=False, text="To'g'ri ✅")
+        elif data == 'False':
+            bot.answer_callback_query(callback_query_id=call.id, show_alert=False, text="Noto'g'ri ❌")
+        try:
+            try:
+                bot.edit_message_text(
+                    message_id = call.message.message_id,
+                    chat_id = call.message.chat.id,
+                    text = mb[1],
+                    reply_markup = mb[0]
+                )
+            except Exception as e:
+                print(e)
+        except Exception as e:
+            print(e)
+            traceback.print_tb(e.__traceback__)
 
 
 
