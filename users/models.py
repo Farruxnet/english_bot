@@ -3,7 +3,7 @@ from django.contrib.auth.models import (
     BaseUserManager, AbstractBaseUser
 )
 from data.models import Words
-
+from django.utils import timezone
 class UserManager(BaseUserManager):
     def create_user(self, phone_number, password=None):
         if not phone_number:
@@ -48,7 +48,7 @@ class User(AbstractBaseUser):
     status = models.CharField(choices=STATUS_CHOICES, max_length=10, null=True, blank=True)
     amount = models.IntegerField(default=0)
     step = models.IntegerField(default=0)
-    create_at = models.DateTimeField(auto_now_add=True)
+    create_at = models.DateTimeField(default = timezone.now)
     is_active = models.BooleanField(default=True)
     is_admin = models.BooleanField(default=False)
 
@@ -77,20 +77,21 @@ class User(AbstractBaseUser):
 class DayWord(models.Model):
     user = models.ForeignKey(User, on_delete = models.CASCADE)
     words = models.ManyToManyField(Words, null = True, verbose_name = 'Kunlik so\'zlar')
-    create_at = models.DateTimeField(auto_now_add=True, null = True)
+    words_text = models.TextField()
+    create_at = models.DateTimeField(default = timezone.now, null = True)
 
 class Ball(models.Model):
     user = models.ForeignKey(User, on_delete = models.CASCADE)
     words = models.ForeignKey(DayWord, on_delete = models.CASCADE, null = True)
     ball = models.IntegerField(default = 0)
-    create_at = models.DateTimeField(auto_now_add=True, null = True)
+    create_at = models.DateTimeField(default = timezone.now, null = True)
 
 
 class UserNewWord(models.Model):
     user = models.ForeignKey(User, on_delete = models.CASCADE)
     words = models.ManyToManyField(Words, null = True, verbose_name = 'Yodlangan so`zlar')
 
-    create_at = models.DateTimeField(auto_now_add=True, null = True)
+    create_at = models.DateTimeField(default = timezone.now, null = True)
 
     def __str__(self):
         return 'so`zlar'
@@ -98,8 +99,17 @@ class UserNewWord(models.Model):
 
 
 
+class UserResult(models.Model):
+    user = models.ForeignKey(User, on_delete = models.CASCADE)
 
+    word_count = models.IntegerField(default = 0)
+    true_answer = models.IntegerField(default = 0)
+    false_answer = models.IntegerField(default = 0)
 
+    create_at = models.DateTimeField(default = timezone.now, null = True)
+
+    def __str__(self):
+        return self.user
 
 
 

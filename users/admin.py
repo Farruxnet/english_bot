@@ -5,7 +5,7 @@ from django.contrib.auth.admin import UserAdmin as BaseUserAdmin
 from django.contrib.auth.forms import ReadOnlyPasswordHashField
 from django.core.exceptions import ValidationError
 
-from . models import User, UserNewWord, DayWord, Ball
+from . models import User, UserNewWord, DayWord, Ball, UserResult
 
 
 class UserCreationForm(forms.ModelForm):
@@ -69,3 +69,4 @@ admin.site.unregister(Group)
 admin.site.register(UserNewWord)
 admin.site.register(DayWord)
 admin.site.register(Ball)
+admin.site.register(UserResult)
