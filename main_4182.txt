@@ -1,0 +1,1507 @@
+School-Maktab
+Notebook-Daftar
+Record book-Kasnbek daftar
+Book-Kitob
+Pen-Ruchka
+Pencil-Qalam
+Bag-Sumka
+Paint-Bo’yoq
+Ink-Siyoh
+Paper-Qog’oz
+Desk-Parta
+Table-Stol
+Chair-Stul
+Blackboard-Doska
+Chalk-Bo’r
+Bookshelf-Kitob javoni
+Bookcase-Kitob jovoni
+Uniform-Forma
+Teacher-O’qituvchi
+Pupil-O’quvchi
+Classmate-Sinfdosh
+Group mate-Kursdosh
+Gym-Gimnastikzal
+Schoolyard-Maktab hovlisi
+Eraser/Rubber-O’chirgich
+Pencil sharpener-Qalamtarosh
+Diary-Kundalikdaftar
+Home-Uy
+House-Xonadon
+Flat-Kvartera
+Black of flat-Ko’p qavatli uy
+Shelter-Boshpana
+Apartment-Kvartera (ijara)
+Accomodation-Bino
+Room-Xona
+Living room-Mexmonxona
+Dining room-Oshxona
+Kitchen-Oshxona
+Bedroom-Yotoqxona
+Bathroom-Vannaxona
+Utility room-Kladofka
+Attic-Chordoq
+Balcony-Balkon
+Wall-Devor
+Ceiling-Shift
+Floor-Pol
+Window-Deraza
+Door-Eshik
+None-None
+Brother-Aka
+Sister-Singil
+Sibling-Tug’ishganlar
+Baby-Chaqaloq
+Aunt-Xola/amma
+Uncle-Tog’a/ amaki
+Nephew-O’g’il Jiyan
+Niece-Qiz jiyan
+Cousin-Amakivachcha
+Grand mother-Buvi
+Grand father-Buva
+Relative-Qarindosh
+Husband-Turmush o’rtoq
+Wife-Rafiqa
+Daughter-Qiz farzand
+Son-O’g’il farzand
+Mother-in-law-Qaynona
+Father-in-law-Qaynota
+Sister-in-law-Qaynisingil
+Brother-in-law-Qayniuka
+Daughter-in-low-Kelin
+Son-in-low-Kuyov
+Child-Lola
+Children-Bolalar
+Pot-Qozon
+Teapot-Choynak
+Kittle-Metal choynak
+Ladle-Cho’mich
+Skimmer-Kapgir
+Fork-Sanchqi
+Spoon-Qoshiq
+Teaspoon-Choy qoshiq
+Knife-Pichoq
+Plate-Tarelka
+Bowl-Kosa, tovoq
+Cup-Payola
+Saucer-Likopcha
+Jug-Ko’za
+Mug-Krushka
+Vase-Guldon
+Glass-Stakan
+Sieve-Elak
+Dustbin-Axlat chelak
+Table cloth-Dasturxon
+Blender / mixer-Aralashtirgich
+Soap-Sovun
+Shampoo-Shampo’n
+Walnut-Yong’oq
+Peanut-Yer yong’oq
+Banana-Banan
+Almond-Bodom
+Raisin-Mayiz
+Strawberry-Qulupnay
+Rasp berry-Malina
+Mulberry-Tut
+Grenade-Anor
+Tangerine-Mandarin
+Melon-Qovun
+Watermelon-Tarvuz
+None-None
+Tomato-Pamidor
+Cucumber-Bodring
+Potato-Kartoshka
+Onion-Piyoz
+Cabbage-Karam
+Carrot-Sabzi
+Turnip-Sholg’om
+Radish-Ridiska
+Horse-radish-Turp
+Pepper-Garimdori
+Egg-plant-Baqilajon
+Aubergine-Baqilajon
+Pea-Nuxot
+Bean-Loviya
+Rice-Guruch
+Wheat-Bug;doy
+Pumpkin-Qovoq
+Garlic-Chisnok
+Corn-Makkajuxori
+Nature-Tabiat
+Land-Tuproq
+Earth-Yer
+Area-Hudud
+Field-Dala
+Mountain-Tog’
+Valley-Vodiy
+Desert-Chol
+River-Daryo
+Sea-Dengiz
+Ocean-Ocean
+Island-Orol
+Peninsula-Yarimorol
+Gulf-Ko’rfaz
+Jungle-Changalzor
+Savannah-Savanna
+Forest / wood-O’rmon
+Duck-O’rdak
+Goose-G’os
+Wood pecker-Qizilishton
+Ostrich-Tuyaqush
+Seagull-Chag’alay
+Pelican-Saqoqush
+Parrot-To’ti
+Nightingale-Bulbul
+Quilt-Bedana
+Fish-Baliq
+Gill-Jabra
+Tail-Dum
+Shark-Akula
+Octopus-Sakkizayoq
+Jellyfish-Medusa
+Swordfish-Nayzabaliq
+Starfish-Dengiz yulduzi
+Shellfish-Chig’anoq
+Dolphin-Dilfin
+Whale-Kit
+Seahorse-Dengiz oti
+Salmon-Lasos
+Insect-Hashorat
+Fly-Pashsha
+Butterfly-Kapalak
+Dragonfly-Nenachi
+Grasshopper-Chigirtka
+Mosquito-Chivin
+Ant-Chumoli
+Bee-Asalari
+Wasp-Sariq ari
+Ladybug-Xon qizi
+Bug-Qo’ng’iz
+Worm-Chuvalchang
+Firefly-Yonar qo’ng’iz
+Tortoise-Toshbaqa
+Turtle-Dengiz toshbaqa
+Crocodile-Tumsoq
+Snake-Ilon
+Lizard-Kaltakesak
+Frog-Qurbaqa
+Toad-Baqa
+Human-Inson
+Man-Erkak
+Women-Ayol
+Head-Bosh
+Hospital-Kasalxona
+Theatre-Teatr
+Circus-Sirk
+Gallery-Galeriya
+Museum-Muzey
+Park-Xiyobon
+Camp-Oromgoh
+Hotel-Mexmonxona
+Motel-Kichik
+Inn-mexmonxona
+Bakery-Novvoyxona
+Butcher’s-Go’shxona
+Pharmacy-Dorixona
+None-None
+Crossroads-Chorraxa
+Station-Vagzal
+Bus-stop-Bekat
+Air-port-Ayroport
+Stadium-Maydon
+Underground-Metro
+Side-walk-Tratvol
+Square-Maydon
+Fountain-Favvoro
+Car park-Mashina to’xtash joyi
+Clothes-Keyimlar
+Dress-Ko’ylak
+Blouse-Kofta
+Skirt-Yupka
+Shirt-Ekaklar ko’ylagi
+Trouser / pants-Shim
+Shorts-Shortik
+t-shirt-Fudbolka
+Jacket-Kastyum
+Suit-Kastyum shim
+Vest-Nimcha
+Scarf-Sharf
+Coat-Palto
+Robe-Xalat
+Cardigan-Kurtka
+Pullover-Pullover
+Jeans-Jinsi shim
+Tie-Galstuk
+Gloves-Qo’lqop
+Mittens-2 barmoq qo’lqop
+Belt-Kamar
+Pyjams-Pajama
+Shoes-Oyoq kiyim
+Boats-Etik, butsi
+Cheese-Pishloq
+Meat-Go’sht
+Beef-Mol go’shti
+Park-Chochqa go’shti
+Lamb-Qo’y go’shti
+Sausage-Kalbasa
+Boil-Qaynatmoq
+Fry-Qovurmoq
+Bake-Pechda pishirmoq
+Chop-Bo’laklamoq
+Grate-Qiymalamoq
+Mix / blend-Aralashtirmoq
+Cook-Pishirmoq
+Prepare-Tayyorlamoq
+Pour-Suzmoq
+Teacher-O’qituvchi
+Doctor-Shifokor
+Surgeon-Jarrox
+Nurse-Hamshira
+Nanny-Enaga
+Gardener-Bog’bon
+Carpenter-Duradgor
+Tailor-Tikuvchi
+Builder-Quruvchi
+Pilot-Uchuvchi
+Driver-Haydovchi
+Accountant-Hisobchi
+Manager-Ish boshqaruvchi
+Painter-Bo’yoqchi
+Artist-Rassom
+Astronomer-Astranom
+Astrologer-Munajjim
+Astronaut-Fazagir
+Scientist-Olim
+Librarian-Kutubxonachi
+Farmer-Fermir
+Peasant-Dehqon
+Shepherd-Cho’pon
+Waiter / waitress-Afitsant
+Writer-Yozuvchi
+Poet / poetess-Shoir(ra)
+Militarian-Harbiy
+Soldier-Askar
+Policeman-Palitsiyachi
+Detective-Izquvar
+Spy-Josus
+Judge-Sudya
+Guard-Qo’riqchi
+Director-Rejissor
+Producer-Produser
+Dancer-Raqqos
+Conductor-Chiptachi
+Welder-Payvandchi
+Fireman-O’t o’chiruvchi
+Fisherman-Baliqchi
+Sailor-Dengizchi
+Veterinarian /-Viterinar
+Vet-None
+Clay-Loy
+Land-Tuproq
+Cement-Siment
+Stone-Tosh
+Iron-Temir
+Copper-Mis
+Gold-Oltin
+Silver-Kumush
+Ceramics-sopol
+China-Chinni
+Diamond-Olmos
+Glass-Shisha
+Plastic-Plastik
+Cloth-Mato
+Cotton-Paxta
+Wool-Jun
+Silk-Ipak
+Synthetic fiber-Suniy tola
+Wood-Yog’och
+Paper-Qog’oz
+Oil-Neft
+Natural gas-Tabiy gaz
+Metal-Metal
+Syringe-Shprist
+Bandage-Bint
+Ambulance-Tez yordam
+Emergency-Favqulotda xolat
+Injection-Ukol
+Infection-Mikrob
+Illness-Kasallik
+Disease-None
+Headache-Bosh og’rig’I
+Toothache-Tish og’rig’I
+Runny nose-Burun oqishi
+Sore throat-Tomoq og’rig’I
+Backache-Bel og’rig’I
+Polio-Vabo
+Cancer-Saraton
+Branch-Shox
+Leaf-Bark
+Thorn-Tikan
+Trunk-Daraxt tanasi
+Root-Tomir
+Fruit-Meva
+Herb-Giyox
+Vegetable-Sabzavot
+Grass-Maysa
+Flower-Gul
+Lawn-Maysazor
+Bud-G’uncha
+Rose-Atirgul
+Dandelion-Qoqigul
+Tulip-Lola
+Heranium-Geran
+Poppy-Qizg’aldoq
+Cactus-Kaktus
+Orchid-Orxediya
+Sunflower-Kungaboqar
+Carnation-Chinnigul
+Sugarcane-Shakarqamish
+Daffodil-Nargiz
+Marigold-Gulsafsar
+Iris-Nargiz
+Violet-Binafsha
+The earth-Yer
+The sun-Quyosh
+The moon-Oy
+Star-Yulduz
+Space-Fazo
+Universe-Koinot
+Galaxy-Gallaktika
+Comet-Kometa
+The Solar System-Quyosh sestimasi
+Crescent-Yangi oy
+Full moon-To’lin oy
+Milky way-Somon yo’li
+Space ship-None
+Space craft-Fazo kema
+Space shuttle-None
+Satellite-Yo’ldosh
+Crew-Ekipaj
+Launch pad-Uchish maydoni
+Rocket-Raketa
+Farm-Ferma
+Ranch-Rancho
+Fruit tree-Mevali daraxt
+Paper clippers-Qog’oz qaychi
+Deliver-Yetqizmoq
+Letter-Xat
+Telegram-Telegramma
+Holiday-Tatil
+Celebration-Bayram
+Party-Ziyofat
+Congratulation-Tabrik
+Fir tree-Archa
+Decoration-Bezak
+Santa Claus-Qorbobo
+Gift-Sovg’a
+Present-None
+Toy-O’yinchoq
+Ball-Koptok
+Doll-Qo’g’irchoq
+Teddy bear-Yumshoq ayiq
+Pram-Kalaska
+Cradle-Belanchak
+Napkin-Salfitka
+Diapers-Yo’rgak
+Rocking chair-Tebranma stol
+Army-Qo’shin
+Military-Harbiy
+Gun-Qurol
+Riffle-Miltiq
+Bullet-O’q
+Arrow-Kamon o’qi
+Bow-Kamon
+Javelin-Nayza
+Solder-Askar
+Powder-Porox
+Saucepan-Kastrulka
+Tin opener-Kanserva ochqich
+Tray-Patnis
+Bottle opener-Butilka ochqich
+Peeler-Archgich
+Frying pan-Tova
+Broom-Supurgi
+Bucket-Chelak
+Ironing board-Dazmol stoli
+Laundry basket-Kir savat
+Big-Kata
+Small-Kichik
+Long-Uzun
+Short-Kalta
+Historical-Tarixiy
+Mysterious-Sirli
+Large-Ulkan
+Huge-Bahaybat
+Loose-Keng
+Tight-Tor
+Open-Ochiq
+Closed-Yopiq
+Striped-Yo’l-yo’l
+Checked-Katakcha
+Dry-Quruq
+Wet-Nam
+Icy-Muz
+Freezing-Izg’irin
+Hard-Qattiq
+Soft-Yumshoq
+Busy-Band
+Free-Bo’sh
+Shy-Uyatchang
+Naughty-To’palonchi
+Loud-Baland (ovoz)
+Muted-Pas (ovoz)
+Expensive-Qimmat
+Cheap-Arzon
+Heavy-Og’ir
+Light-Yengil
+Round-Aylana
+Square-To’rtburchak
+Triangle-Uchburchak
+Circle-Aylana
+Plumb-Do’mboq
+Thin-Ozg’in, ingichka
+Thick-Qalin, semiz
+Tiny-Mitti
+Little-Kichik
+Painful-Og’riqli
+Painless-Og’riqsiz
+Brave-Mard
+Coward-Qo’rqoq
+Strong-Kuchli
+Weak-Kuchsiz
+True-Rost
+Lie-Yolg’on
+Safe-Xavfsiz
+Distant-Uzoq
+Far-Uzoq
+Near-Yaqin
+Deep-Chuqur
+Shallow-Sayoz
+Proud-Mag’rur
+Hardworking-Mexnatkash
+Responsible-Masuliyatli
+Mean-Baxul
+Honest-Vijdonli
+Dishonest-Vijdonsiz
+Dreamy-Hayolparast
+Thoughtful-O’ychan
+Little/ Few-Kichik, kam
+Much/ Many-Ko’p
+Attentive-Diqqatli
+In attentive-Be etibor
+Well-bred-Tarbiyali
+Ill-bred-Tarbiyasiz
+Peaceful-Tinch
+Calm-Sokin
+Quiet-Jim
+Quick-Tez
+Noisy-Shovqinli
+Glittery-Yaltiroq
+Sparkling-Yaltiroq
+Correct-To’g’ri
+Wrong-Noto’g’ri
+Incorrect-Noto’g’ri
+Right-O’ng, to’g’ri
+Left-Chap, noto’g’ri
+Charming-Chiroyli
+Simple-Oddiy
+Tired-Charchagan
+Real-Haqiqy
+False-Soxta
+White-Oq
+Black-Qora
+Blue-Ko’k
+Yellow-Sariq
+Green-Yashil
+Red-Qizil
+Violet-Binafsha
+Pink-Pushti
+Grey-Kulrang
+Orange-Olovrang
+Brown-Malla
+Magenta-To’q pushti
+Rude-Qo’pol
+Chatter box-Gapdon
+Cheerful-Quvnoq
+Smart-Aqilli
+Intelligent-Aqilli
+Active-Faol
+Whisper-Pichirlamoq
+Laugh-Kulmoq
+Smile-Tabassum qilmoq
+Giggle-Qiqirlamoq
+Open-Ochiq
+Close-Yopiq
+Paint-Bo’yamoq
+Look-Qaramoq
+Watch-Tomosha qilmoq
+Glance-Nazar solmoq
+Cry-Yig’lamoq
+Shout-Baqirmoq
+Mention-Tilga olmoq
+Notice-Payqamoq
+Suffer-Aziyat chekmoq
+Respect-Xurmat qilmoq
+Appreciate-Qadirlamoq
+Graduate-O’qishni bitirmoq
+Fill-To’lditmoq
+Hope-Umid qilmoq
+Happen-Sodir bo’lmoq
+Demand-Talab qilmoq
+Request-Talab qilmoq
+Require-Talab qilmoq
+Propose-Taklif qilmoq
+Invite-Taklif qilmoq
+Aim-Maqsad qilmoq
+Live-Yashamoq
+Differ-Farq qillmoq
+Distinguish-Farqlamoq
+Divide-Bo’lmoq
+Add-Qo’shmoq
+Collect-To’plamoq
+Gather-To’plamoq
+Pick-Termoq, to’plamoq
+Apply-Murojat qilmoq
+Ask-So’ramoq
+Answer-Javob bermoq
+Manage-Boshqarmoq
+Express-Ifodalamoq, tex
+Concern-Bog’liq bo’lmoq
+Believe-Isonmoq
+Trust-Ishonmoq
+Annoy-Xafa qilmoq
+Miss-Sog’inmoq
+Increase-Ko’tarilmoq
+Decrease-Tushmoq
+Fit-Mos kelmoq
+Satisfy-Qoniqtirmoq
+Persuade-Ko’ndirmoq
+Chase-Ta’qib qilmoq
+Introduce-Tanishtirmoq
+Include-O’z ichiga olmoq
+Consist-Iborat bo’lmoq
+Struggle-Kurashmoq
+Rely on-Suyanmoq
+Praise-Maqtamoq
+Represent-Aks ettirmoq
+Follow-Ta’qib qilmoq
+Spell-Talafuz qilmoq
+Liston-Tinglamoq
+Reflect-Aks ettirmoq
+Point-Ko’rsatmoq
+Observe-Kuzatmoq
+Establish-Joriy qilmoq
+Found-Asos solmoq
+Create-Yaratmoq
+Decide-Qaror qilmoq
+Load-Yuklamoq
+Measure-O’lchamoq
+Intend-Niyat qilmoq
+Cook-Pishirmoq
+Prepare-Tayyorlamoq
+Demonstrate-Namoyish qilmoq
+Arrange-Tashkillashtirmoq
+Repeat-Takrorlamoq
+Reply-Javob bermoq
+Travel-Sayoxat qilmoq
+Pack-O’ramoq
+Inhabit-Yashamoq
+Conduct-Boshqarmoq
+Comment-Sharxlamoq
+Value-Qadrlamoq
+Secure-Qo’riqlamoq
+Guard-Go’riqlamoq
+Taste-Tatib ko’rmoq
+Nod-Bosh irg’itmoq
+Hug-Quchmoq
+Embrace-Quchmoq
+Isolate-Ajratib qo’ymoq
+Separate-Ajratmoq
+Highlight-Urg’u bermoq
+Underline-Tagiga chizmoq
+Consider-O’ylamoq/xisobga olmoq
+Confuse-Chalkashmoq
+Collapse-Qulamoq
+Explode-Portlamoq
+Kill-O’ldirmoq
+Suggest-Taklif qilmoq
+Waste-Bekor sarflamoq
+Risk-Tavakkal qilmoq
+Rest-Dam olmoq
+Relax-Dam olmoq
+React-Munosabat bildirmoq
+Occupy-Qamramoq
+Improve-Yaxshilanmoq
+Enlarge-Kattalashmoq
+Ignore-Mensimaslik
+Drop-Tushirib yubormoq/
+None-tanimoq
+Lift-Ko’tarmoq
+Contribute-Hissa qo’shmoq
+Turn-Burilmoq
+Round-Aylanmoq
+Rock-Tebranmoq
+Remain-Qolmoq
+Offend-Hafa qilmoq
+Hate-Nafratlanmoq
+Criticize-Tanqid qilmoq
+Analyze-Tahlil qilmoq
+Accept-Qabul qilmoq
+Attend-Qatnashmoq
+Pass-O’tmoq
+Try-Urunmoq
+Guess-Tahmin qilmoq
+Organize-Tashkil qilmoq
+Carry-Tashimoq
+Avoid-Nari yurmoq
+Suit-mos kelmoq
+Clean-Tozalamoq
+Clear-Tozalamoq
+Tidy-Tozalamoq
+Argue-Bahslashmoq
+Approach-Yaqinlashmoq
+Recover-Tuzalmoq
+Experience-Boshidan kechirmoq
+Interview-suxbat qilmoq
+Execute-Ijro etmoq
+Subject-Fan
+Literature-Adabiyot
+Mother tongue-Ona tili
+Drawing-Rasm
+Physical education-Jismoniy tarbiya
+Geography-Geografiya
+Mathematics-Matematika
+Witch-Jodugar
+Wizard-Afsungar
+Magician-Sexirgar
+Dragon-Ajdar
+Hero-Qaxramon
+Heroine-Qaxramon ayol
+Devil-Shayton
+Evil-Yovuzlik
+Industry-Sanoat
+Agriculture-Qishloq xo’jaliok
+Plant-Zavod
+Factory-Fabrika
+Employ-Ishga yollAMOQ
+Employer-Ish beruvchi
+Salary \ wage-Maosh
+Payment-To’lov
+Labor-Ish, mexnat
+Firm-Firma
+Document-Xujjat
+Sign-Imzo chekmoq
+Product-Ishlab chiqarmoq
+Channel-Kanal
+Program-Dastur
+TV-show-Ko’rsatuv
+Soap opera-Serial
+Film \ movie-Kino
+Love-Sevgi
+Hatred-Hafrat
+Friendship-Do’slik
+Honesty-Vijdon
+Wisdom-Donolik
+Mind-Ong
+Spirit-Ruh
+Fun-Xursandchilik
+Sorrow-Afsus
+Intelligence-Ong, aql
+Pride-G’urur
+Marriage-Turmush, nikox
+Stranger-Begona
+Time-Vaqt
+Truth-Haqiqat
+Fear-Qo’rquv
+Courage-Mardlik
+Anger-Qaxr
+Fury-Qaxr
+Happiness-Baxt
+Misfortune-Baxtsizlik
+Handle-Tutqich
+Windowsill-Derazatokchasi
+Roof-Tom
+Stairs-Narvon
+Yard-Hovli
+Fire-place-Kamin
+TV-set-Televizor
+Radio-Radio
+Casette-recorder-Magnitafon
+Lamp-Lampa
+Chandelier-Qandil
+Iron-Dazmol
+Vacuum-cleaner-Changyutgich
+Microwave-Mikroto’lqinlipech
+Oven-None
+Cooker-Pechka
+Refrigerator/-Muzlatgich
+Fridge-None
+Air-conditioning-Kondetsiyaner
+Sofa-Divan
+Armchair-Krislo
+Wardrobe /-Javon
+Cupboard-None
+Chest-Quti
+Drawer-Tortmaquti
+Carpet-Gilam
+Curtain-Parda
+Telephone-Telephone
+Picture-Surat (timsol)
+Mirror-Ko’zgu
+Photo-Surat
+Chimney-Mo’ri
+Garden-Bog’
+Sink-Rakavina
+Bath-Vanna
+Faucet-Jo’mrak
+Shower-Do’sh
+Blanket-Odiyol
+Guilt-Qavilganko’rpa
+Pillow/cushion-Yostiq
+Washing-Kiryuvishmashinasi
+machine-None
+Central heating-Markaziyisitish
+Radiator-Batareya
+Antenna/ aireal-Antenna
+Family-Oila
+Father/dad-Ota
+daddy-None
+Mother/ mum/-Ona
+Toothbrush-Tish chokka
+Toothpaste-Tish pasta
+Towel-Sochiq
+Detergent-Kir yuvish kukini
+powder-None
+Perfume-Atir
+Comb-Taroq
+Hairdryer-Soch quritgich
+Sickle-O’roq
+Broad-Ketmon
+Pitchfork-Panshaxa
+Axe-Bolta
+Sawyer-Arra
+Plain-Randa
+Hammer-Bolg’a
+Scissors-Qaychi
+Automobile-Mashina
+Car-Yingil mashina
+Bus-Aftobo’s
+Tram-Tramvay
+Train-Poyezd
+Trolley-bus-Tralebus
+Air-plane-Samalyot
+Helicopter-Vertolyet
+Bicycle-Velosaped
+Cart-Arava
+Truck / lorry-Yuk mashinasi
+Jet-Xususiy samalyot
+Boat-Qayiq
+Ship-Kema
+Ferry-Paraxod
+Raft-Sol
+Yacht-Xususiy kema
+Apple-Olma
+Pear-Nok
+Peach-Shaftoli
+Apricot-O’rik
+Grapes-Uzum
+Cherry-Olcha
+Orange-Apilsin
+Plum-Olxo’ri
+Persimmon-Xurmo
+Fig-Anjir
+Quince-Bexi
+Sweet cherry-Gilos
+Pine-apple-Ananas
+Coconut-Kakos
+Waterfall-Sharshara
+Lake-Ko’l
+Lion-Sher
+Tiger-Yo’lbars
+Wolf-Bo’ri
+Bear-Ayiq
+Panther-Qoplon
+Cheetah-Gepart
+Fox-Tulki
+Chackal-Chiyabo’ri
+Puma-Amerika qoploni
+Deer-Bug’u
+Gazelle-Garella
+Rabbet-Quyon
+Hare-Yovoyi quyon
+Monkey-Maymun
+Elephant-Fel
+Giraffe-Jirafa
+Hyppopotamus-Begimot
+Rhinoceros-Karkidon
+Bat-Ko’rshapalak
+Squirrel-Olmaxon
+Hedgehog-Tipratikan
+Rat-Kalamush
+Mouse-Sichqon
+Chipmunk-Burunduq
+Animal-Hayvon
+Wild-Yovoyi
+Predator-Yirtqich
+Habitat-Makon
+Domestic-Xonaki
+Bird-Qush
+Wing-Qanot
+Bill-Tumshuq
+Claw-Changal
+Eagle-Burgut
+Hawk-Lochin
+Falcon-Qirg’iy
+Owl-Boyqush
+Sparrow-Chumchuq
+Swallow-Qaldirg’och
+Swan-Oqqush
+Crow-Qarg’a
+Crane-Turna
+Pigeon-Kabutar
+Penguin-Penguin
+Peacock-Tovus
+Pheasant-Qirgovul
+Hair-Soch
+Ears-Quloq
+Eyes-Ko’z
+Brows-Qoshlar
+Nose-Burun
+Lips-Lablar
+Tooth / teeth-Tishlar
+Tongue-Til
+Mouth-Og’iz
+Cheeks-Yonoqlar
+Chin-Iyak
+Forehead-Peshona
+Eyelash-Kiprik
+Eyelid-Qovoq
+Neck-Bo’yin
+Face-Yuz
+Body-Tana
+Leg-Oyoq
+Foot-Oyoq
+Arm-Qo’l
+Hand-Panja qismi
+Palm-Panja
+Finger-Barmoq
+Chest-Ko’krak qafasi
+Ankle-To’piq
+Toe-Oyoq uchi
+Neel-Tirnoq
+Knee-Tizza
+Wrist-Bilak
+Back-Bel
+Brain-Miya
+Heart-Yurak
+Liver-Jigar
+Kidney-Buyrak
+Stomach-Oshqozon
+Gut-Ichak
+Throat-Tomoq
+Bone-Suyak
+Spine / backbone-Umurtqa pog’onasi
+Abdomen-Qorin
+Café-Qaxvaxona
+Restaurant-Restaran
+Canteen-Oshxona
+Pub / bar-Qovoqxona
+Club-Klub
+Shop-Do’kon
+Market-Bozor
+Cinema-Kinoteatr
+Department store-Savdo markazi
+Heels-Poshnali tufli
+Socks-Paypoq
+Tights-Uzun paypoq
+Stockings-None
+Slippers-Shippak
+Sandals-None
+Watch-Qo’l soati
+Ring-Uzuk
+Earring-Sirg’a
+Bracelet-Bilaguzuk
+Necklace-Zanjir
+Wallet-Hamyon
+Purse-Hamyon
+Pocket-Cho’ntak
+Collar-Yoqa
+Hat-Shlyapa
+Cap-Shapka
+Handkerchief-Ro’molcha
+Buttons-Tugma
+Glasses-Ko’zoynak
+Sunglasses-Quyosh ko’zoynak
+Flour-Un
+Water-Suv
+Oil-Yog’
+Butter-Saryog’
+Bread-Non
+Bun-Bulichka
+Honey-Asal
+Sugar-Shaker
+Salt-Tuz
+Spicy-Ziravor
+Tea-Choy
+Juice-Sharbat
+Candy-Kanfet
+Egg-Tuxum
+Biscuit-Picheni
+Chocolate-Shekalad
+Loaf-Buxonka
+Dish-Taom
+Food-Yegulik
+Cake-Tort
+Pie-Perok
+Cookie-Pishiriq
+Chips-Qavurilgan kartosh
+Jam-Murabbo
+Milk-Sut
+Cream-Qaymoq
+Yoghurt-Qatiq
+Ice-cream-Muzqaymoq
+Architect-Memor
+Designer-Loyihalovchi
+Lawyer-Advakat
+Prosecutor-Qoralovchi
+Financer-Moliyachi
+Mayor-Shahar hokimi
+Cleaner-Farrosh
+Cook / chef-Oshpaz
+Referee-Hakam
+Barber-Erkaklar sartaroshi
+Hairdresser-Ayollar sartaroshi
+Inventor-Kashfiyotchi
+Economist-Iqtisodchi
+Plumber-Santexnik
+Typist-Harf teruvchi
+Secretary-Kotib
+Pharmacist-Dori sotuvchi
+Mechanic-Mixanik
+Engineer-Muhandis
+Travel agent-Sayyohlik agenti
+Repair person-Tamirchi
+Green grocer-Sabzavot sotuvchi
+Baker-Novvoy
+Butcher-Qassob
+Optician-Ko’z shifokori
+Dentist-Tish shifokori
+Florist-Gul sotuvchi
+Jeweler-Zargar
+Lock smith-Chilangar
+Electrician-Elektrik
+Housekeeper-Uy xizmatchisi
+Delivery boy-Xat tashuvchi
+Shop keeper-Do’kondor
+Shop assistant-Sotuvchi
+Seller-None
+Customer-Xaridor
+Reporter-Muxbir
+Journalist-Journalist
+Translator-Tarjimon
+Interpreter-None
+Camera person-Tasvirchi
+Photographer-Suratkash
+Dick jockey (DJ)-Musiqa qo’yuvchi
+Clerk-Kotib
+Receptionist-Kutub oluvchi
+Servant-Xizmatkov
+Musician-Musiqachi
+Composer-Kampazitor
+Singer-Qo’shiqchi
+Measles-Qizamiq
+Mumps-Tepki
+Flu-Grip
+Wound-Jarohat
+Injury-None
+Cure-Davolamoq
+Treat-None
+Patient-Bemor
+Sponge-Gupka
+X-ray-Rengin
+Wheelchair-Nogiron aravasi
+Statoscope-Eshitish aparati
+Chart-Kasallik tarixi
+Stretcher-Zambil
+Hygienist-Gegeyina
+Pet-Xonaki hayyvon
+Domestic animal-Uy hayvoni
+Dog-Kuchuk
+Cat-Mushuk
+Cow-Sigir
+Goat-Echki
+Sheep-Qo’y
+Horse-Ot
+Donkey-Eshak
+Puppy-Kuchuk bolasi
+Kitten-Mushuk bolasi
+Calf-Buzoq
+Colt-Toychoq
+Lamb-Qo’zichoq
+Camel-Tuya
+Duck-O’rdak
+Goose-G’oz
+Turkey-Kurka
+Chick-Jo’ja
+Poplar-Terak
+Palm-Palma
+Fir tree-Archa
+Eucalyptus-Efkalift
+Willow-Tol
+Birch-Qayin
+Weeping Willow-Majnuntol
+Ivy-Chirmoviq
+Pine-Qayin
+Elm-None
+Oak-Eman
+Holly-Doimiy yashil
+None-daraxt
+Bush-Buta
+Needle-Igna
+Orchard-Mevali bog’
+Silo-Xashak
+Barn-Og’il
+Fence-To’siq
+Dairy cow-Sog’in sigir
+Hay-Xashak
+Cattle-Chorva mollari
+Gate-Darvoza
+Drum-Baraban
+Tambourine-None
+Flute-Nay
+Guitar-Gitara
+Violin-Skripka
+Piano-Pianina
+Trumpet-Surnay
+Accordion-Akardion
+Melody-Kuy
+Judge-Sudya
+Witness-Guvox
+Victim-Qurbon
+Suspect-Gumondor
+Sinner-Gunoxkor
+Innocent-Begunox
+Criminal-Jinoyatchi
+Robber-O’g’ri
+Thief-None
+Killer-Yollanma Qotil
+Murderer-Qotil
+Hijacker-Mashina o’g’ri
+Kidnapper-Odam o’g’ri
+Forger-Qallob
+Hacker-Malumot o’g’risi
+Hand cuffs-Kishan
+Jail-Qamoqxona
+Prison-None
+Cell-Qamoq xujrasi
+Policeman-Politsiyachi
+Prisoner-Qamoqxona
+Court-Sud zali
+Evidence-Dalil
+Defense attorney-Himoyachi advakat
+Lawyer-Advakat
+Jury-Hakamlar
+Post office-Pochtaxona
+Post man-Pochtachi
+Envelope-Kanvert
+Stamp-Marka
+Nigh-Baland
+Low-Past
+Wide-Keng
+Narrow-Tor
+Light-Yorug’
+Dark-Qorong’u
+Fast-Tez
+Slow-Sekin
+Serious-Jiddiy
+Funny-Quvnoq
+Hot-Issiq
+Cold-Sovuq
+Cool-Salqin
+Warm-Iliq
+Beautiful-Chiroyli
+Ugly-Xunuk
+Sweet-Shirin
+Chilly-Achchiq
+Tasty-Mazali
+Bitter-Achchiq
+Clean-Toza
+Dirty-Kir
+New-Yangi
+Old-Eski
+Young-Yosh
+Old-Qari
+Fresh-Musaffo
+Sour-Achigan
+Pretty-Yoqimtoy
+Disgusting-Jirkanch
+Modern-Zamonaviy
+Old fashioned-Eskicha
+Foreign-Xorijiy
+Native-Mahalliy
+Ripe-Pishgan
+Raw-Xom
+Clear-Aniq, toza
+Dim-Xira
+Strange-G’alati
+Dangerous-Xafli
+Poisonous-Zaharli
+Ill-Kasal
+Healthy-Sog’lom
+Sunny-Quyoshli
+Cloudy-Bulutli
+Windy-Shamolli
+Snowy-Qorli
+Rainy-Yomg’irli
+Foggy-Tumanli
+Ancient-Qadimiy
+Interesting-Qiziqarli
+Boring-Zerikarli
+Full-To’la
+Empty-Bo’sh
+Half-Yarim
+Quarter-Chorak
+Wooden-Yog’ochsan
+None-yasalgan
+Natural-Tabiiy
+Pleasant-Yoqimli
+Important-Muhim
+Necessary-Zarur
+Crowded-Tiqilinch
+Private-Maxfiy, shaxsiy
+Secret-Maxfiy
+Difficult-Qiyin
+Easy-Oson
+Clever-Aqilli
+Silly-Aqilsiz
+Sincere-Samimiy
+Liar-Yolg’onchi
+Trustful-Ishonuvchan
+Faithful-Ishonsa bo’ladigan
+Fair-Adolatli
+Pleased-Mamnun
+Happy-Xursand
+Sad-Xafa
+Angry-Jaxildor
+Annoyed-Jaxli chiqqan
+Upset-Xafa
+Furious-Jaxildor
+Curious-Qiziquvchan
+Talkative-Gapdon
+Neat-Ozoda
+Messy-Tartibsiz
+Untidy-Notoza
+Tidy-Toza
+Smooth-Tekis
+Rough-Dag’al
+Ready-Tayyor
+Lazy-Dangasa
+Nice-Yaxshi, ajoyib
+Kind-Mexribon
+Generous-Saxiy
+Strict-To’g’ri
+Attractive-Jozibali
+Handsome-Kelishgan
+Graceful-Kibor
+Stupid-Axmoq
+Fool-Axmoq
+Passive-Nofaol
+Horrible-Qo’rqinchli
+Terrible-Daxshatli
+Cruel-Beshavqat
+Violent-Jazaba
+Rich-Boy
+Poor-Kambag’al
+Sleepy-Uyquchi
+Harmful-Zararli
+Rapid-Tez
+Sensitive-Ta’sirchan
+Sensible-Aqilli
+Fluffy-Axmoq
+Lovely-Sevimli
+Friendly-Do’stona
+Lively-Jo’shqin
+Awesome-Ajoyib, hayratlanarl
+Similar-Bir xil
+Fantastic-Hayratlanarli
+Successful-Mofaqiyyat
+Lucky-Omadli
+Unlucky-Omadsiz
+Precious-Qimmatbaho
+Critical-Salbiy
+Urgent-Shoshininch
+Independent-Mustaqil
+Main-Asosiy
+Suspicious-Shubxali
+Excellent-A’lo
+Casual-Qulay, tasodifiy
+Fry-Qovurmoq
+Bake-Duxofkada qovurm
+Boil-Qaynatmoq
+Toast-Qovurmoq
+Enjoyable-Yoqimli
+Usual-Doimiy, odatiy
+Unusual-Noodatiy
+Anxious-Xavotirli
+Traditional-Ananaviy
+Rare-Noyob
+Shiny-Yaltiroq
+Alive-Tirik
+Asleep-Uyquda
+Invisible-Ko’rinmas
+Invincible-Yengilmas
+Immoral-Odobsiz
+Immortal-O’lmas
+Want-Xoxlamoq
+Work-Ishlamoq
+Worry-Xavotirlanmoq
+Encourage-Ro’xlantirmoq
+Determine-Belgilamoq
+Achieve-Erishmoq
+Hurry-Shoshilmoq
+Rush-Shoshilmoq
+Recycle-Qayta ishlamoq
+Produce-Ishlab chiqarmoq
+Pollute-Ifloslantirmoq
+Permit-Ruxsat bermoq
+Allow-Ruxsat bermoq
+Harm-Zarar yetkazmoq
+Damage-Zarar yetkazmoq
+Poison-Zaxarlamoq
+Imprison-Qamoqqa olmoq
+Expect-Kutmoq
+Wait-Kutmoq
+Cause-Sabab bo’l/q
+Push \ press-Bosmoq
+Pull-Itarmoq
+Communicate-Aloqa qilmoq
+Contact-Bog’lanmoq
+Treat-Davolamoq momila
+None-qilmoq
+Spoil-Erkalatmoq
+End-Tugamoq
+Finish-Tugatmoq
+Start-Boshlamoq
+Wander-Qiziqib so’ramoq/
+None-mo’jiza
+Imagine-Tasavvur qilmoq
+Define-Aniqlamoq
+Adapt-Moslashtirmoq
+Select-Tanlamoq
+Search-Izlamoq
+Report-Xisobor bermoq
+Inform-Ma’lumot bermoq
+Invent-Ta’sir o’tkazmoq
+Explore-Tadqiq qilmoq
+Discover-Yaratmoq
+Influence-Kashf qilmoq
+Affect-Yomon ta’sir qil/q
+Identify-Aniqlamoq
+Hire-Yollamoq/ ijaraga
+None-olmoq
+Rent-Ijaraga bermoq
+Borrow-Qarz olmoq
+Owe-Qarzdor bo’lmoq
+Own-Egalik qilmoq
+Inherit-Meros qilmoq
+Investigate-Tekshirmoq, tergov
+Support-Ta’minlamoq
+Supple-Ta;minlamoq
+Participate-Qatnashmoq
+Compete-Bellashmoq
+Award-Mukofotlamoq
+Scream-Qichqirmoq
+Hint-Ishora qilmoq
+Limit-Chegaralamoq
+Save-Saqlamoq
+Focus-Etibor qaratmoq
+Depend on-Bog’liq bo’lmoq
+Commit crime-Jinoyat qilmoq
+Prefer-Afzal ko’rmoq
+Memorize-Yodlamoq
+Recollect-Eslamoq
+Remember-Eslamoq
+Play-O’ynamoq
+Mark-Belgilamoq
+Compile-To’plamoq
+Instruct-Yo’nalish bermoq
+Simulate-Tasavvur qilmoq
+Inspire-Ilxomlantirmoq
+Exhibit-Namoyish etmoq
+Appear-Paydo bo’lmoq
+Disappear-G’oyib bo’lmoq
+Calculate-Hisoblamoq
+Employ-Yollamoq
+Desire-Hohlamoq
+Amuse-Kuldirmoq
+Challenge-Chorlamoq
+Direct-Yo’l ko’rsatmoq
+Gain-Erishmoq
+Act-Harakat qilmoq
+Move-Ko’chmoq/
+None-siljimoq
+Serve-Xizmat qilmoq
+Remind-Eslatmoq
+Refer-Ishora qilmoq
+Regret-Afsuslanmoq
+Count-Sanamoq
+Joke-Hazillashmoq
+Edit-Tahrir qilmoq
+Arrive-Yetib kelmoq
+Suit-Mos kelmoq
+Estimate-Hisoblamoq
+Deliver-Yetkazib bermoq
+Compare-Solishtirmoq
+Recite-Yodlamoq
+Realize-Anglamoq
+Concentrate-Fikr jamlamoq
+Physics-Fizika
+Chemistry-Ximiya
+Biology-Biologiya
+Handicraft-Mexnat
+Weather-Obi xavo
+Rain-Yomg’ir
+Wind-Shamol
+Snow-Qor
+Ice-Muz
+Freezing-Izg’irin
+Fog-Tuman
+Mist-Tuman
+Thunder-Chaqmoq
+Hurricane-Dovul
+Rainbow-Kamalak
+Hail-Do’l
+Shower-Jala
+Storm-Dovul
+Palace-Saroy
+Castle-Qasr
+Fort-Qal’a
+Fortress-Qal’a
+King-Qirol
+Queen-Qirolicha
+Prince-Shaxzoda
+Princess-Malika
+Duke-Gertsak
+Duchess-Gertsagina
+Baron-Baron
+Baronet-Baranessa
+Kingdom-Qirollik
+Knight-Retsar
+Crown-Toj
+Throne-Taxt
+Royal family-Qirollik oilasi
+Fairy tale-Ertak
+Story-Hikoya
+Poem-Sher, doston
+Novel-Raman
+Genre-Janr
+Publisher-Poshir
+Editor-Muharrir
+Puzzle-Boshqotirma
+Riddle-Topishmoq
+Tongue twister-Tez aytish
+Fairy-Pariy
+Angel-Farishta
+Soup-Sho’rva
+Mustard-Xantal
+Seafood-Dengiz taomlari
+Pasta-Makaron
+Spaghetti-Spaghetti
+Salad-Salat
+Olives-Zaytun
+Roast beef-Qovurilgan go’sh
+Pizza-Pitsa
+Porridge-Bo’tqa
+Pancake-Quymoq
+Pop corn-Bodroq
+Mushroom-Qo’ziqorin
+Tea-Choy
+Coffee-Kofe
+Beer-Piyva
+Wine-Wino
+Juice-Sharbat
+Lemonade-Limonad
+Mineral water-Madanli suv
+Bookshop-Kitob do’koni
+Stationary-Kitob daftar do’koni
+Hardware-Xo’jalik mollari
+Store-Rasta
+Price-Narx
+Selfish-Xudbin
+Bad-tempered-Qo’rs
+Tough-Dag’al
+Crafty-Ayyor
+Stubborn-Qaysar
+Loyal-Sodiq
+Gentle-Muloyim
+Clumsy-Besunaqay
+Sympathetic-Kelishgan
+Trustworthy-Ishonsa bo’ladigan
+Grow-O’smoq
+Help-Yordam bermoq
+Hesitate-Ikkilanmoq
+Hope-Umid qilmoq
+Hurry-Shoshilmoq
+Intend-Maqsad qilmoq
+Learn-O’rganmoq
+Manage-Boshqarmoq
+Mean-Nazarda tutmoq
+Need-Muhtoj bo’lmoq
+Neglect-Mensimaslik
+Offer-Taklif qilmoq
+Pay-To’lamoq
+Plan-Rejalashtirmoq
+Prepare-Tayyorlamoq
+Pretend-Mug’ombirlik q/q
+Promise-Va’da bermoq
+Refuse-Rad etmoq
+Request-Talab qilmoq
+Seem-Tuyulmoq
+Struggle-Kurashmoq
+Swear-Ont ichmoq
+Volunteer-Xoxish bildirmoq
+Wait-Kutmoq
+Want-Xoxlamoq
+Wish-Xoxlamoq
+Would like-Xoxlamoq
+Yearn-Juda xoxlamoq
+Tend-Moyil bo’lmoq
+Teach-O’qitmoq
+Invite-Taklif qilmoq
+Beg-Yalinmoq
+Threaten-Tahdid qilmoq
+Claim-Ta’kidlamoq
+Desire-Xoxlamoq
+Prefer-Afzal ko’rmoq
+Know-Bilmoq
+Enable-Imkon bermoq
+Demand-Talab qilmoq
+Warn-Ogohlantirmoq
+Urge-Ishontirmoq
+Begin-Boshlamoq
+Care-E’tibor bermoq
+Forget-Unutmoq
+Hate-Nafratlanmoq
+Like-Yoqtirmoq
+Love-Sevmoq
+Regret-Afsuslanmoq
+Acknowledge-Ma’lum qilmoq
+Admit-Tan olmoq
+Advise-Maslaxat bermoq
+Anticipate-Oldindan ko’rmoq
+Appreciate-Qardlamoq
+Avoid-Oldini olmoq, nari yurmoq
+Begin-Boshlanmoq
+Burst our-Portlab ketmoq
+Can’t bear-Chidolmaslik
+Can’t help-Chidolmaslik
+Celebrate-Nishonlamoq
+Complete-To’ldirmoq
+Consider-Hisoblamoq
+Continue-Davom ettirmoq
+Delay-Kechiktirmoq
+Deny-Rad etmoq
+Detest-Yomon ko’rmoq
+Discuss-Muhokama qilmoq
+Dislike-Yomon ko’rmoq
+Endure-Chidamoq
+Enjoy-Yoqtirmoq
