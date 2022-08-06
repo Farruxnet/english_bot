@@ -1,0 +1,45 @@
+{% load static %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>Test</title>
+<script type="text/javascript" src="{% static 'site/jquery.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'site/jQuizler.js' %}"></script>
+
+<link rel="stylesheet" href="{% static 'site/bootstrap.min.css' %}" />
+<link rel="stylesheet" href="{% static 'site/jQuizler.css' %}" />
+
+<script type="text/javascript">
+var questions = [
+  {% for i in answer %}
+      {
+          type: "choose",
+          question: `<h3>{{ i.oz }}</h3>`,
+          answers: [
+              `{{ i.en }}`,
+          ],
+          correct: [0]
+      },
+    {% endfor %}
+
+];
+
+$("document").ready(function(){
+    $("#jQuizler").jQuizler(questions);
+});
+
+</script>
+</head>
+
+<body>
+    <div id="jQuizler" class="main-quiz-holder">
+        <h3>Test</h3>
+        {% for i in answer %}
+            {{ i }}
+        {% endfor %}
+        <button class="btn btn-large">Boshlash</button>
+    </div>
+
+</body>
+</html>

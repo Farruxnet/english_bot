@@ -77,13 +77,16 @@ def bot_new_words(message):
                 Ball.objects.create(
                     user = User.objects.get(tg_id = message.chat.id),
                 )
-                UserNewWord.objects.create(
-                    user = User.objects.get(tg_id = message.chat.id),
-                )
+                
                 day_word = DayWord.objects.filter(user__tg_id = message.chat.id, create_at__day = datetime.datetime.now().day)
                 for c, i in zip(range(1, 26), Words.objects.all()):
                     for j in day_word:
                         if not j.words.filter(oz__in = [i.oz], en__in = [i.en]).exists():
+                            UserNewWord.objects.update_or_create(
+                                user__tg_id=message.chat.id,
+                            )[0].words.add(
+                                Words.objects.get(id = i.id)
+                            )
                             DayWord.objects.update_or_create(
                                 user__tg_id=message.chat.id,
                                 create_at__day = datetime.datetime.now().day

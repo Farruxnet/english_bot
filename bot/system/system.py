@@ -29,6 +29,9 @@ def new_user(message, bot):
         name = name,
         username = message.chat.username
     )
+    UserNewWord.objects.create(
+        user = User.objects.get(tg_id = message.chat.id),
+    )
     home_get(message, bot)
 
 
